@@ -2,9 +2,9 @@
 
 **Thingy**
 
-#Thingy#
+# Thingy
 
-##Thingy##
+## Thingy
 
 [Thingy](https://apcalpe.github.io/cse15l-lab-reports-sp23/index.html)
 
