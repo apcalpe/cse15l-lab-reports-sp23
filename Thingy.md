@@ -24,7 +24,7 @@ Thingy:
 
 ---
 
-'Thingy' Thingy
+`Thingy` Thingy
 
 ```
 Thingy
